@@ -1,0 +1,1 @@
+print(f"Data successfully loaded into table '{table_name}' in database '{database}'.")
